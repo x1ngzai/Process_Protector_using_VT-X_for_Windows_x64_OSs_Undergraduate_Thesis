@@ -1,0 +1,15 @@
+﻿D:\BaiduNetdiskDownload\vtprotect\vtprotect\vtprotect.vcxproj(108,5): warning MSB4011: 无法再次导入“C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.props”。可能已在“C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (463,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+D:\BaiduNetdiskDownload\vtprotect\vtprotect\vtprotect.vcxproj(171,5): warning MSB4011: 无法再次导入“C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets”。可能已在“C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1832,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+  Building 'vtprotect' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  SSDT.cpp
+  vtprotect.vcxproj -> D:\BaiduNetdiskDownload\vtprotect\x64\Debug\vtprotect.sys
+  vtprotect.vcxproj -> D:\BaiduNetdiskDownload\vtprotect\x64\Debug\vtprotect.pdb (Full PDB)
+D:\BaiduNetdiskDownload\vtprotect\vtprotect\vtprotect.vcxproj(108,5): warning MSB4011: 无法再次导入“C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.props”。可能已在“C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (463,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+D:\BaiduNetdiskDownload\vtprotect\vtprotect\vtprotect.vcxproj(171,5): warning MSB4011: 无法再次导入“C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets”。可能已在“C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1832,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+  Done Adding Additional Store
+  Successfully signed: D:\BaiduNetdiskDownload\vtprotect\x64\Debug\vtprotect.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
+D:\BaiduNetdiskDownload\vtprotect\vtprotect\vtprotect.vcxproj(108,5): warning MSB4011: 无法再次导入“C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.props”。可能已在“C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (463,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+D:\BaiduNetdiskDownload\vtprotect\vtprotect\vtprotect.vcxproj(171,5): warning MSB4011: 无法再次导入“C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets”。可能已在“C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1832,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
